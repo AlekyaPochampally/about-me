@@ -1,2 +1,23 @@
-# about-me
-This is my 1st edit
+# About Me
+---
+
+## Repo Links
+
+
+## About
+
+
+## Recommended Tools
+
+
+**Browser**
+
+
+**Editor**
+
+
+**Git Tools**
+
+
+## Recommended Resources
+
