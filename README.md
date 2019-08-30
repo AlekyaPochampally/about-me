@@ -28,3 +28,9 @@ This repo contains details about the tools,technologies and resources I used for
 - [Markdown Cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Tortoise git tutorial](https://tortoisegit.org/docs/tortoisegit/)
 - [How to publish GitHub page](https://pages.github.com/)
+
+## Contributors
+
+Hello I am Alekya Pochampally and currently pursuing my masters in the field of applied computer science.
+
+![](https://github.com/AlekyaPochampally/about-me/blob/master/MSWP4835.JPG?raw=true)
